@@ -35,3 +35,16 @@ print(list_b)
 list_a.extend(list_b)
 print(list_a)
 ````
+# CODE VISUAL CODE
+![Screenshot (9)](https://github.com/user-attachments/assets/7e0d7ea7-d91a-48e6-95a3-5d7643e73ae6)
+
+# HASIL DARI PROGRAM TERSEBUT
+![Screenshot (10)](https://github.com/user-attachments/assets/ae41aca9-fff8-4c94-afb2-8c249aa94cd7)
+
+
+
+
+
+
+
+
